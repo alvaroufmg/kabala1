@@ -1,4 +1,4 @@
 
-public class Futebol {
+public class Futebol extends Esporte {
 
 }

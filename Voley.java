@@ -1,4 +1,4 @@
 
-public class Voley {
+public class Voley extends Esporte {
 
 }
