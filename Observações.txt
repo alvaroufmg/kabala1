@@ -1,0 +1,14 @@
+Esse arquivo serve para escrevermos as mudanças importantes para que o outro colega esteja por dentro do que foi feito. Coloque seu nome e a data do dia. IDENTE PLEASE!
+	Elias 11/09 (O dia em que as torres gêmeas caiu):
+		Eu apaguei as classes Atleta e Selecao, Selecao está dentro da classe Esporte e Atleta está dentro de Selecao, seguindo a ideia de composição.
+		Criei um projeto com o nome do TP pelo Eclipse, assim o Eclipse passa  a funcionar com todas as suas utilidades, como aviso instatâneo de erros,
+		auto-completação, execução etc.
+	
+	Álvaro xx/xx:
+		
+		
+	Elias xx/xx:
+		
+	Álvaro xx/xx:
+		
+		
