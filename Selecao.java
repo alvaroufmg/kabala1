@@ -22,5 +22,13 @@ class Selecao {
 	public void setId(int id) {
 		this.id = id;
 	}
+	
+	//Inserindo atletas na seleção.
+	public void insertAthlete(String athleteName, int athleteId) {
+		Atletas novo = new Atletas();
+		novo.setName(athleteName);
+		novo.setId(athleteId);
+		atletas.add(novo);
+	}
 
 }
