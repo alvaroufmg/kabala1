@@ -7,12 +7,6 @@ Esse arquivo serve para escrevermos as mudanças importantes para que o outro co
 	Elias 12/09: 
 		1- Fiz a inserção de atletas na classe Seleção;
 		2- Fiz a inserção de seleções na classe Esporte;
-	
-	Álvaro xx/xx:
-		
-		
-	Elias xx/xx:
-		
-	Álvaro xx/xx:
-		
+	Elias 13/09:
+		1- Comecei a implementação da classe Partida, que servirá para guardar todos os dados das partidas.
 		
