@@ -25,7 +25,15 @@ public abstract class Esporte {
 	public String getName() {
 		return this.name;
 	}
-	public void inserirSelecoes() {
+	// Insere as seleções dentro da classe esporte.
+	public void inserirSelecoes(String selecaoName, int selecaiId) {
+		Selecao novo = new Selecao();
+		novo.setName(selecaoName);
+		novo.setId(selecaiId);
+		selecoes.add(novo);
+	}
+	public ArrayList<Selecao> geth(){
+		return selecoes;
 	}
 
 }
