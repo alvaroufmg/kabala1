@@ -1,0 +1,5 @@
+Basquete
+Times	V	E	D
+Japão	1	0	1
+USA	0	1	1
+Chile	1	1	0

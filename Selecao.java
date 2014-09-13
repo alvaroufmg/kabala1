@@ -6,6 +6,7 @@ class Selecao {
 	private String name;
 	private int id;
 	private ArrayList<Atletas> atletas = new ArrayList<Atletas>();
+	private Partida partida = new Partida();
 
 	public String getName() {
 		return this.name;
@@ -28,7 +29,7 @@ class Selecao {
 		Atletas novo = new Atletas();
 		novo.setName(athleteName);
 		novo.setId(athleteId);
-		atletas.add(novo);
+		this.atletas.add(novo);
 	}
 
 }

@@ -19,8 +19,9 @@ public class Partida {
 		Integer newId = id;
 		Integer newIScore = iScore;
 		Integer newMScore = mScore;
-		names.add(newString);
-		ids.add(newId);
-		iScore.add(newIScore);
+		this.names.add(newString);
+		this.ids.add(newId);
+		this.iScore.add(newIScore);
+		this.mScore.add(newMScore);
 	}
 }

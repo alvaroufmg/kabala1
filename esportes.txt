@@ -1,0 +1,6 @@
+1;Basquete
+2;Volei
+3;Futebol
+4;Volei de praia
+5;Futebol de areia
+6;Futebol de salão
