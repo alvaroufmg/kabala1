@@ -1,3 +1,4 @@
+package Campeonato;
 import java.util.ArrayList;
 
 // Será uma classe para armazenar resultados das partidas de uma determinada seleção

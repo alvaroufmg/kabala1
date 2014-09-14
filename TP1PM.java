@@ -1,3 +1,4 @@
+package Campeonato;
 
 public class TP1PM {
 

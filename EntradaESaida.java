@@ -1,3 +1,4 @@
+package Campeonato;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -5,8 +6,8 @@ import java.io.IOException;
 public class EntradaESaida {
 	
 	// Lê os arquivos de entrada e trata possíveis exceções, como não existência de arquivo ou nome incorreto.
-	public static void readData(){
-		// Leitura e tratamento de exceção do arquivo esportes.txt.
+	void readData(){
+		// Leitura e tratamento de exceção do arquivo esportes.txt.	
 		try{
 			FileReader sports = new FileReader("esportes.txt");
 			BufferedReader readSports = new BufferedReader(sports);

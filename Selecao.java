@@ -1,3 +1,4 @@
+package Campeonato;
 import java.util.ArrayList;
 
 //Composição, a classe Esporte "TEM" uma classe seleção. Apenas classes filhas e do pacote poderam acessar Selecao.

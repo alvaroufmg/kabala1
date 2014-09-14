@@ -1,3 +1,5 @@
+package Campeonato;
+
 //A classe Selecao "TEM" Atletas, portanto, Atletas compôe Selecao.
 class Atletas {
 	private String name;
