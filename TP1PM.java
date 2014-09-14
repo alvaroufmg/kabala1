@@ -3,6 +3,7 @@ package Campeonato;
 public class TP1PM {
 
 	public static void main(String[] args) {
-		readData();
+		EntradaESaida dados = new EntradaESaida();
+		dados.readSports();
 	}
 }

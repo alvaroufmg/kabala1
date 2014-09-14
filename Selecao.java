@@ -1,4 +1,5 @@
 package Campeonato;
+
 import java.util.ArrayList;
 
 //Composição, a classe Esporte "TEM" uma classe seleção. Apenas classes filhas e do pacote poderam acessar Selecao.
@@ -24,8 +25,8 @@ class Selecao {
 	public void setId(int id) {
 		this.id = id;
 	}
-	
-	//Inserindo atletas na seleção.
+
+	// Inserindo atletas na seleção.
 	public void insertAthlete(String athleteName, int athleteId) {
 		Atletas novo = new Atletas();
 		novo.setName(athleteName);

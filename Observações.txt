@@ -10,4 +10,6 @@ Esse arquivo serve para escrevermos as mudanças importantes para que o outro co
 	Elias 13/09:
 		1- Comecei a implementação da classe Partida, que servirá para guardar todos os dados das partidas.
 		2- Criei uma classe EntradaESaida que será resposável por ler os dados e salvar os dados nos .txts
-		
+		3 - A classe TP1PM vai ser o main().
+		4- Estava implementando as leituras dos arquivos, implementei de duas maneiras diferentes, e ambas deram pau. Os métodos
+		de leitura estão no EntradaESaida.
