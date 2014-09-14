@@ -9,4 +9,5 @@ Esse arquivo serve para escrevermos as mudanças importantes para que o outro co
 		2- Fiz a inserção de seleções na classe Esporte;
 	Elias 13/09:
 		1- Comecei a implementação da classe Partida, que servirá para guardar todos os dados das partidas.
+		2- Criei uma classe EntradaESaida que será resposável por ler os dados e salvar os dados nos .txts
 		
